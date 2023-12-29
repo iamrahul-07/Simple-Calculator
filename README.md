@@ -1,4 +1,4 @@
-# Simple-Calculator
+# CODSOFT TASK-2 SIMPLE-CALCULATOR
 
 
 <h1>Overview</h1>
