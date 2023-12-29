@@ -26,43 +26,43 @@ like square root, square, pi, and factorial. Whether you're a student, professio
 
 <h2>Clear Function:</h2>
 
-<ul>Easily clear the current input to start a new calculation.</ul>
+<ul><li>Easily clear the current input to start a new calculation.</li></ul>
 
 <h2>Decimal Point Support:</h2>
 
-<ul>Perform calculations with decimal numbers for increased precision.</ul>
+<ul><li>Perform calculations with decimal numbers for increased precision.</li></ul>
 
 <h2>User-friendly Interface:</h2>
 
-<ul>Intuitive buttons for numbers, operations, and special functions.<br>
-Responsive design for seamless interaction.</ul>
+<ul><li>Intuitive buttons for numbers, operations, and special functions.<br>
+Responsive design for seamless interaction.</li></ul>
 
 <h1>Usage</h1>
 
-<ul>The Tkinter Calculator provides a visually appealing and straightforward interface:</ul>
+<ul><li>The Tkinter Calculator provides a visually appealing and straightforward interface:</li></ul>
 
 <h2>Number Buttons:</h2>
-<ul>Click on the number buttons to input digits.<br>
-0 - 9 are represented by their respective button labels.</ul>
+<ul><li>Click on the number buttons to input digits.<br>
+0 - 9 are represented by their respective button labels.</li></ul>
 
 <h2>Operation Buttons:</h2>
 
-<ul>Click on the operation buttons (+, -, *, /) to choose the desired operation.</ul>
+<ul><li>Click on the operation buttons (+, -, *, /) to choose the desired operation.</li></ul>
 
 <h2>Function Buttons:</h2>
 
-<ul>Click on the special function buttons (√, x², π, x!) to perform advanced calculations</ul>
+<ul><li>Click on the special function buttons (√, x², π, x!) to perform advanced calculations</li></ul>
 
 <h2>Equals Button:</h2>
 
-<ul>Click on "=" to perform the calculation and display the result.</ul>
+<ul><li>Click on "=" to perform the calculation and display the result.</li></ul>
 
 <h2>Clear Button:</h2>
 
-<ul>Click on "C" to clear the current input.</ul>
+<ul><li>Click on "C" to clear the current input.</li></ul>
 
 <h2>Decimal Point Button:</h2>
-<ul>Click on "." to input decimal points for precision.</ul>
+<ul><li>Click on "." to input decimal points for precision.</li></ul>
 
 <h1>Contributing</h1>
 
