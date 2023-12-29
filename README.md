@@ -34,16 +34,16 @@ like square root, square, pi, and factorial. Whether you're a student, professio
 
 <h2>User-friendly Interface:</h2>
 
-<ul><li>Intuitive buttons for numbers, operations, and special functions.<br>
-Responsive design for seamless interaction.</li></ul>
+<ul><li>Intuitive buttons for numbers, operations, and special functions.</li></ul><br>
+<ul><li>Responsive design for seamless interaction.</li></ul>
 
 <h1>Usage</h1>
 
 <ul><li>The Tkinter Calculator provides a visually appealing and straightforward interface:</li></ul>
 
 <h2>Number Buttons:</h2>
-<ul><li>Click on the number buttons to input digits.<br>
-0 - 9 are represented by their respective button labels.</li></ul>
+<ul><li?>Click on the number buttons to input digits.</li></ul><br>
+<ul><li>0 - 9 are represented by their respective button labels.</li></ul>
 
 <h2>Operation Buttons:</h2>
 
