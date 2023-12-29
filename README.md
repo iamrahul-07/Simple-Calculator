@@ -26,43 +26,43 @@ like square root, square, pi, and factorial. Whether you're a student, professio
 
 <h2>Clear Function:</h2>
 
-Easily clear the current input to start a new calculation.
+<ul>Easily clear the current input to start a new calculation.</ul>
 
 <h2>Decimal Point Support:</h2>
 
-Perform calculations with decimal numbers for increased precision.
+<ul>Perform calculations with decimal numbers for increased precision.</ul>
 
 <h2>User-friendly Interface:</h2>
 
-Intuitive buttons for numbers, operations, and special functions.<br>
-Responsive design for seamless interaction.
+<ul>Intuitive buttons for numbers, operations, and special functions.<br>
+Responsive design for seamless interaction.</ul>
 
 <h1>Usage</h1>
 
-The Tkinter Calculator provides a visually appealing and straightforward interface:
+<ul>The Tkinter Calculator provides a visually appealing and straightforward interface:</ul>
 
 <h2>Number Buttons:</h2>
-Click on the number buttons to input digits.<br>
-0 - 9 are represented by their respective button labels.
+<ul>Click on the number buttons to input digits.<br>
+0 - 9 are represented by their respective button labels.</ul>
 
 <h2>Operation Buttons:</h2>
 
-Click on the operation buttons (+, -, *, /) to choose the desired operation.
+<ul>Click on the operation buttons (+, -, *, /) to choose the desired operation.</ul>
 
 <h2>Function Buttons:</h2>
 
-Click on the special function buttons (√, x², π, x!) to perform advanced calculations
+<ul>Click on the special function buttons (√, x², π, x!) to perform advanced calculations</ul>
 
 <h2>Equals Button:</h2>
 
-Click on "=" to perform the calculation and display the result.
+<ul>Click on "=" to perform the calculation and display the result.</ul>
 
 <h2>Clear Button:</h2>
 
-Click on "C" to clear the current input.
+<ul>Click on "C" to clear the current input.</ul>
 
 <h2>Decimal Point Button:</h2>
-Click on "." to input decimal points for precision.
+<ul>Click on "." to input decimal points for precision.</ul>
 
 <h1>Contributing</h1>
 
